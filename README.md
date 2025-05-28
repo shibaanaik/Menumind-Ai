@@ -15,37 +15,7 @@
 ---
 
 ## 🏗️ Project Structure
-menumind/
-├── backend/
-│   ├── __init__.py
-│   ├── nlp_engine.py
-│   ├── recommender.py
-│   └── trend_fetcher.py
-├── cravings_suggestion.py
-├── config/
-│   └── settings.py
-├── data/
-│   ├── craving_dataset.csv
-│   └── sample_menu.csv
-├── database/
-│   ├── __init__.py
-│   ├── db_ops.py
-│   ├── schema.py
-│   └── mongo_clients.py
-├── query.py
-├── pages/
-│   ├── 1_recommendation.py
-│   └── 2_trend_dashboard.py
-├── test/
-│   ├── __init__.py
-│   ├── test_trend_fetcher.py
-│   ├── test_recommender.py
-│   ├── test_nlp_engine.py
-│   └── test_db_ops.py
-├── .env
-├── requirements.txt
-├── main.py
-└── import_data.py
+<pre> ```plaintext menumind/ ├── backend/ │ ├── __init__.py │ ├── nlp_engine.py │ ├── recommender.py │ ├── trend_fetcher.py │ ├── cravings_suggestion.py ├── config/ │ └── settings.py ├── data/ │ ├── craving_dataset.csv │ ├── sample_menu.csv ├── database/ │ ├── __init__.py │ ├── db_ops.py │ ├── schema.py │ ├── mongo_clients.py │ ├── query.py ├── pages/ │ ├── 1_recommendation.py │ ├── 2_trend_dashboard.py ├── test/ │ ├── __init__.py │ ├── test_trend_fetcher.py │ ├── test_recommender.py │ ├── test_nlp_engine.py │ ├── test_db_ops.py ├── .env ├── requirements.txt ├── main.py ├── import_data.py ``` </pre>
 
 
 ## 🧠 How It Works
