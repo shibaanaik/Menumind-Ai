@@ -15,8 +15,8 @@
 ---
 
 ## 🏗️ Project Structure
-'''menumind/
-├── backend/
+menumind/
+'''├── backend/
 │ ├── init.py
 │ ├── nlp_engine.py
 │ ├── recommender.py
