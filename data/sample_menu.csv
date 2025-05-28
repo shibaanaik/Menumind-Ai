@@ -1,0 +1,32 @@
+name,category,ingredients,region,spiciness,price,ratings
+Paneer Butter Masala,Main Course,"Paneer, Tomato, Cream",Delhi,Medium,220,4.5
+Chicken Biryani,Main Course,"Chicken, Rice, Spices",Hyderabad,High,250,4.7
+Masala Dosa,Snacks,"Rice, Potato, Spices",Bangalore,Low,120,4.3
+Vada Pav,Snacks,"Potato, Bread, Spices",Mumbai,Medium,40,4.1
+Momos,Snacks,"Flour, Vegetables/Chicken, Spices",Delhi,Medium,80,4.2
+Chenapoda,Dessert,"Cottage Cheese, Sugar, Cardamom",Bhubaneswar,Low,100,4.6
+Fish Curry,Main Course,"Fish, Mustard, Spices",Kolkata,High,200,4.4
+Misal Pav,Snacks,"Sprouts, Spices, Bread",Pune,High,60,4.3
+Litti Chokha,Main Course,"Wheat Balls, Brinjal, Spices",Patna,Medium,90,4.2
+Bamboo Chicken,Main Course,"Chicken, Bamboo Shoots, Tribal Spices",Visakhapatnam,High,240,4.5
+Aloo Tikki Chaat,Snacks,"Potato, Chutney, Yogurt",Lucknow,Medium,70,4.3
+Rasgulla,Dessert,"Chenna, Sugar Syrup",Kolkata,Low,80,4.8
+Dabeli,Snacks,"Mashed Potato, Spices, Bun",Ahmedabad,Medium,50,4.1
+Pesarattu,Snacks,"Green Gram, Onion, Spices",Hyderabad,Low,90,4.0
+Idiyappam,Main Course,"Rice Flour, Coconut",Chennai,Low,110,4.3
+Patra,Snacks,"Colocasia Leaves, Gram Flour, Spices",Ahmedabad,Medium,65,4.2
+Bisi Bele Bath,Main Course,"Rice, Lentils, Spices",Bangalore,Medium,130,4.4
+Thukpa,Main Course,"Noodles, Vegetables, Meat, Spices",Gangtok,Medium,150,4.5
+Sel Roti,Dessert,"Rice Flour, Sugar, Milk",Kathmandu (Nepal influence),Low,70,4.3
+Khar,Main Course,"Raw Papaya, Traditional Alkaline Water, Spices",Guwahati,Medium,180,4.1
+Dhokla,Snacks,"Gram Flour, Yogurt, Spices",Surat,Low,60,4.4
+Bebinca,Dessert,"Coconut Milk, Egg, Flour, Sugar",Goa,Low,140,4.6
+Neer Dosa,Main Course,"Rice, Coconut, Water",Mangalore,Low,100,4.2
+Prawn Balchao,Main Course,"Prawns, Vinegar, Spices",Goa,High,260,4.5
+Tandoori Chicken,Main Course,"Chicken, Yogurt, Tandoori Spices",Amritsar,High,240,4.6
+Poha,Snacks,"Flattened Rice, Mustard Seeds, Spices",Indore,Low,50,4.2
+Bun Maska,Snacks,"Bun, Butter, Sugar",Mumbai,Low,35,4.0
+Samosa,Dessert,"Potato, Peas, Spices",Jaipur,Medium,20,4.1
+Jalebi,Dessert,"Flour, Sugar Syrup, Ghee",Agra,Low,40,4.3
+Thekua,Dessert,"Wheat Flour, Jaggery, Ghee",Patna,Low,60,4.4
+
