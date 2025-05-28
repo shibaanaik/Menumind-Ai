@@ -15,8 +15,8 @@
 ---
 
 ## 🏗️ Project Structure
-menumind/
-'''├── backend/
+"""menumind/
+├── backend/
 │ ├── init.py
 │ ├── nlp_engine.py
 │ ├── recommender.py
@@ -45,7 +45,7 @@ menumind/
 ├── .env
 ├── requirements.txt
 ├── main.py
-├── import_data.py'''
+├── import_data.py"""
 
 ## 🧠 How It Works
 
