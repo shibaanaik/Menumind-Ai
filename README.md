@@ -1,4 +1,4 @@
-#🍴 MenuMind AI – Smart Menu Intelligence for Regional Cravings
+🍴 MenuMind AI – Smart Menu Intelligence for Regional Cravings
 MenuMind AI is a simple AI-powered tool that helps new restaurants or cafés in India design effective menus by recommending popular dishes based on region and craving type. The system takes inputs from users via dropdowns and suggests dishes from a MongoDB database.
 
 🔥 Current Features
